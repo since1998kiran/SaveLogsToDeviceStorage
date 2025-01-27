@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Save Logs</string>
+    <string name="check_log_save">Click Here to save Log</string>
+</resources>
